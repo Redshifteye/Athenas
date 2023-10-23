@@ -52,6 +52,7 @@ go build aaa.go
 ./file --server <server> --port <port>
 
 ```
+![image1](https://github.com/Lowkkii/Athenas/blob/main/main.png)
 ### soon:
 * Binary files.
 * anti incident-response.
